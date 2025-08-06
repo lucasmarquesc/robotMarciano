@@ -32,7 +32,7 @@ o desenvolvimento Android.
 Sua entrega deverá conter o aplicativo funcionando corretamente.
 Dê prioridade às funcionalidades. Só depois que estiver seguro que tudo está
 funcionando corretamente se preocupe com o design do aplicativo.
-<img width="431" height="889" alt="image" src="https://github.com/user-attachments/assets/c356194a-2f1c-4980-af01-a387e285de48" />
-<img width="431" height="889" alt="image" src="https://github.com/user-attachments/assets/7a1e80c7-7dac-4779-8479-9c2c6012ce1c" />
-<img width="431" height="889" alt="image" src="https://github.com/user-attachments/assets/dd08cfdf-e64c-4111-81ff-7036e950d7c4" />
+<img width="43" height="88" alt="image" src="https://github.com/user-attachments/assets/c356194a-2f1c-4980-af01-a387e285de48" />
+<img width="43" height="88" alt="image" src="https://github.com/user-attachments/assets/7a1e80c7-7dac-4779-8479-9c2c6012ce1c" />
+<img width="43" height="88" alt="image" src="https://github.com/user-attachments/assets/dd08cfdf-e64c-4111-81ff-7036e950d7c4" />
 
